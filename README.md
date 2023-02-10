@@ -1,2 +1,1 @@
-# NodeJS-Metarhia
-Metarhia NodeJS application server
+# Metarhia NodeJS application server
