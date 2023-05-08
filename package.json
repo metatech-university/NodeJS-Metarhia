@@ -11,7 +11,7 @@
     "fmt": "prettier --write \"**/*.js\" \"**/*.ts\""
   },
   "engines": {
-    "node": "14 || 16 || 18"
+    "node": "16 || 18 || 19 || 20"
   },
   "dependencies": {
     "impress": "^3.0.0-alpha.10",
