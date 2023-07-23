@@ -14,19 +14,19 @@
     "node": "16 || 18 || 19 || 20"
   },
   "dependencies": {
-    "impress": "^3.0.0-alpha.13",
-    "metasql": "^2.1.2",
-    "pg": "^8.8.0"
+    "impress": "^3.0.1",
+    "metasql": "^3.0.0-alpha.1",
+    "pg": "^8.11.1"
   },
   "devDependencies": {
-    "@types/node": "^20.1.0",
-    "@types/pg": "^8.6.6",
-    "@types/ws": "^8.5.4",
-    "eslint": "^8.31.0",
+    "@types/node": "^20.4.4",
+    "@types/pg": "^8.10.2",
+    "@types/ws": "^8.5.5",
+    "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.2",
-    "typescript": "^5.0.4"
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
   }
 }
